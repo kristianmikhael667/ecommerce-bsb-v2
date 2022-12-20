@@ -3,7 +3,7 @@
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
         <div class="sidebar-brand-icon">
-            <img width="65" height="65" src="{{ asset('frontend/img/logo.png') }}" alt="" />
+            <img width="65" height="65" src="{{ asset('frontend/img/logohead.png') }}" alt="" />
         </div>
         <div class="sidebar-brand-text mx-3">TELKOMSAT SHOP</div>
     </a>
