@@ -9,6 +9,8 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <title>TELKOMSAT SHOP | Checkout</title>
 
+  <link rel="icon" href="{{ asset('frontend/img/logohead.png') }}" type="image/png" sizes="16x16">
+
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet" />
 
@@ -36,7 +38,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-6 text-center">
           <div class="header__logo">
-            <a href="/"><img src="{{ asset('frontend/img/logo.png') }}" alt="" /></a>
+            <a href="/"><img src="{{ asset('frontend/img/logohead.png') }}" alt="" /></a>
           </div>
         </div>
       </div>
@@ -53,7 +55,7 @@
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="footer__about">
             <div class="footer__about__logo">
-              <a href="./index.html"><img src="{{ asset('frontend/img/logo.jpeg') }}" alt="" /></a>
+              <a href="./index.html"><img src="{{ asset('frontend/img/logohead.png') }}" alt="" /></a>
             </div>
             <ul>
               <li>Address: Jalan Kebagusan 19 Depok</li>

@@ -4,11 +4,11 @@
 <!-- Breadcrumb Section Begin -->
 <section class="mb-5">
   <div class="container">
-    <div class="hero__item set-bg" data-setbg="{{ asset('frontend/img/hero/bannerbig.png') }}">
+    <div class="hero__item set-bg" data-setbg="{{ asset('frontend/img/hero/bannhero.png') }}">
       <div class="hero__text">
         <span>TECHNOLOGY SHOP</span>
-        <h2>Computer <br />100% Ori</h2>
-        <p><b>Free Pickup and Delivery Available</b></p>
+        <h2 style="color:red;">PRODUCT 100% Ori</h2>
+        <p><b style="color:white;">Free Pickup and Delivery Available</b></p>
         <a href="#" class="primary-btn">SHOP NOW</a>
       </div>
     </div>
@@ -56,12 +56,12 @@
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-6">
         <div class="banner__pic">
-          <img src="{{ asset('frontend/img/banner/banner1.png') }}" alt="" />
+          <img src="{{ asset('frontend/img/banner/banners.png') }}" alt="" />
         </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6">
         <div class="banner__pic">
-          <img src="{{ asset('frontend/img/banner/banner2.png') }}" alt="" />
+          <img src="{{ asset('frontend/img/banner/banners2.png') }}" alt="" />
         </div>
       </div>
     </div>

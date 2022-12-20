@@ -236,9 +236,9 @@
               <a href="./index.html"><img src="{{ asset('frontend/img/logo.jpeg') }}" alt="" /></a>
             </div>
             <ul>
-              <li>Address: Jalan Kebagusan 19 Depok</li>
-              <li>Phone: +6289-6689-*****</li>
-              <li>Email: adam@ecommerceapriori.web.id</li>
+              <li>Address: Telkom Landmark Tower Lt.21, Jl. Jenderal Gatot Subroto Kav 52, Kuningan Barat, Mampang Prapatan, Jakarta Selatan, Indonesia 12710</li>
+              <li>Phone: +62 815-3289-4364</li>
+              <li>Email: adamraditt@gmail.com</li>
             </ul>
           </div>
         </div>
@@ -265,9 +265,9 @@
         </div>
         <div class="col-lg-4 col-md-12">
           <div class="footer__widget">
-            <h6>Join Our Newsletter Now</h6>
+            <h6>About Us</h6>
             <p>
-              Get E-mail updates about our latest shop and special offers.
+            Telkomsat adalah anak perusahaan Telkom, penyedia layanan satelit yang ahli dalam memberikan layanan hulu ke hilir yang berkualitas tinggi dan berstandar internasional.
             </p>
             <form action="#">
               <input type="text" placeholder="Enter your mail" />

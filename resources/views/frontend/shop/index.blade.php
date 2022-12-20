@@ -7,11 +7,11 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <div class="breadcrumb__text">
-          <h2>TELKOMSAT SHOP</h2>
+      <div class="breadcrumb__text">
+          <h2 style="color:red;">TELKOMSAT SHOP</h2>
           <div class="breadcrumb__option">
-            <a href="./index.html">Home</a>
-            <span>Shop</span>
+            <a style="color:white;" href="./index.html">Home</a>
+            <span style="color:red;">Shop</span>
           </div>
         </div>
       </div>
