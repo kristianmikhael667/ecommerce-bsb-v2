@@ -7,11 +7,11 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <div class="breadcrumb__text">
-          <h2>Shop Tech</h2>
+          <h2>TELKOMSAT SHOP</h2>
           <div class="breadcrumb__option">
             <a href="/">Home</a>
             <a href="./index.html">Category</a>
-            <span>Shop Tech</span>
+            <span>TELKOMSAT SHOP</span>
           </div>
         </div>
       </div>

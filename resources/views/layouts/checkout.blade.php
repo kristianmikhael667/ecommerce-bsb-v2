@@ -3,11 +3,11 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="description" content="Shop Tech Checkout" />
-  <meta name="keywords" content="Shop Tech, unica, creative, html" />
+  <meta name="description" content="TELKOMSAT SHOP Checkout" />
+  <meta name="keywords" content="TELKOMSAT SHOP, unica, creative, html" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <title>Shop Tech | Checkout</title>
+  <title>TELKOMSAT SHOP | Checkout</title>
 
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet" />
@@ -53,12 +53,12 @@
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="footer__about">
             <div class="footer__about__logo">
-              <a href="./index.html"><img src="{{ asset('frontend/img/logo.png') }}" alt="" /></a>
+              <a href="./index.html"><img src="{{ asset('frontend/img/logo.jpeg') }}" alt="" /></a>
             </div>
             <ul>
               <li>Address: Jalan Kebagusan 19 Depok</li>
               <li>Phone: +6289-6689-*****</li>
-              <li>Email: kristianmikhael@doomo.id</li>
+              <li>Email: adam@ecommerceapriori.web.id</li>
             </ul>
           </div>
         </div>
@@ -112,9 +112,9 @@
                 <script>
                   document.write(new Date().getFullYear());
                 </script>
-                Shop Tech
-                <i class="fa fa-heart" aria-hidden="true"></i> by
-                <a href="https://colorlib.com" target="_blank">Khael doomo</a>
+                TELKOMSAT SHOP
+                <!-- <i class="fa fa-heart" aria-hidden="true"></i> by
+                <a href="https://colorlib.com" target="_blank">TELKOMSAT SHOP</a> -->
                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
               </p>
             </div>

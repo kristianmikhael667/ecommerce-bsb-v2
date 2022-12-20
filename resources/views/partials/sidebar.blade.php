@@ -5,7 +5,7 @@
         <div class="sidebar-brand-icon">
             <img width="65" height="65" src="{{ asset('frontend/img/logo.png') }}" alt="" />
         </div>
-        <div class="sidebar-brand-text mx-3">Shop Tech</div>
+        <div class="sidebar-brand-text mx-3">TELKOMSAT SHOP</div>
     </a>
 
     <!-- Divider -->

@@ -3,14 +3,15 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="description" content="Shop Tech Front" />
-  <meta name="keywords" content="Shop Tech, unica, creative, html" />
+  <meta name="description" content="TELKOMSAT SHOP Front" />
+  <meta name="keywords" content="TELKOMSAT SHOP, unica, creative, html" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <title>Shop Tech | Front</title>
+  <title>TELKOMSAT SHOP | Front</title>
 
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet" />
+  <link rel="icon" href="{{ asset('frontend/img/logohead.png') }}" type="image/png" sizes="16x16">
 
   <!-- Css Styles -->
   <link rel="stylesheet" href="{{ asset('frontend/css/bootstrap.min.css') }}" type="text/css" />
@@ -100,7 +101,7 @@
     </div>
     <div class="humberger__menu__contact">
       <ul>
-        <li><i class="fa fa-envelope"></i> kristianmikhael@doomo.id</li>
+        <li><i class="fa fa-envelope"></i> adam@ecommerceapriori.web.id</li>
         <li>Free Shipping for all Order of Rp 100,000</li>
       </ul>
     </div>
@@ -115,7 +116,7 @@
           <div class="col-lg-6 col-md-6">
             <div class="header__top__left">
               <ul>
-                <li><i class="fa fa-envelope"></i> kristianmikhael@doomo.id</li>
+                <li><i class="fa fa-envelope"></i> Email: adam@ecommerceapriori.web.id</li>
                 <li>Free Shipping for all Order of Rp. 100,000</li>
               </ul>
             </div>
@@ -156,7 +157,7 @@
       <div class="row">
         <div class="col-lg-3">
           <div class="header__logo">
-            <a href="/"><img width="120" height="100" src=" {{ asset('frontend/img/logo.png') }}" alt="" /></a>
+            <a href="/"><img width="120" height="100" src=" {{ asset('frontend/img/logohead.png') }}" alt="" /></a>
           </div>
         </div>
         <div class="col-lg-6">
@@ -210,13 +211,11 @@
               </form>
             </div>
             <div class="hero__search__phone">
-              <div class="hero__search__phone__icon">
-                <i class="fa fa-phone"></i>
-              </div>
-              <div class="hero__search__phone__text">
-                <h5>+65 11.188.888</h5>
+             
+              <!-- <div class="hero__search__phone__text">
+                <h5>Email: adam@ecommerceapriori.web.id11.188.888</h5>
                 <span>support 24/7 time</span>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
@@ -234,12 +233,12 @@
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="footer__about">
             <div class="footer__about__logo">
-              <a href="./index.html"><img src="{{ asset('frontend/img/logo.png') }}" alt="" /></a>
+              <a href="./index.html"><img src="{{ asset('frontend/img/logo.jpeg') }}" alt="" /></a>
             </div>
             <ul>
               <li>Address: Jalan Kebagusan 19 Depok</li>
               <li>Phone: +6289-6689-*****</li>
-              <li>Email: kristianmikhael@doomo.id</li>
+              <li>Email: adam@ecommerceapriori.web.id</li>
             </ul>
           </div>
         </div>
@@ -293,9 +292,9 @@
                 <script>
                   document.write(new Date().getFullYear());
                 </script>
-                Shop Tech
-                <i class="fa fa-heart" aria-hidden="true"></i> by
-                <a href="https://colorlib.com" target="_blank">Khael doomo</a>
+                TELKOMSAT SHOP
+                <!-- <i class="fa fa-heart" aria-hidden="true"></i>  -->
+                <!-- <a href="https://colorlib.com" target="_blank">Khael doomo</a> -->
                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
               </p>
             </div>
